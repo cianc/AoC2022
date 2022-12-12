@@ -15,7 +15,7 @@ func main() {
 	part := flag.Int("part", 1, "Which part of the exercise")
 	input := flag.String("input", "example", "Run on the 'example' or 'real' input")
 	flag.Parse()
-	fmt.Println("Day 10")
+	fmt.Println("Day 11")
 
 	filename := "11-example-01.input"
 	if *input == "real" {
