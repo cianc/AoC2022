@@ -85,7 +85,7 @@ func main() {
 	part := flag.Int("part", 1, "Part 1 or 2 of the exercise.")
 	flag.Parse()
 
-	fmt.Printf("Day 13\n========\n")
+	fmt.Printf("Day 14\n========\n")
 
 	var filename string
 	if *input == "real" {
